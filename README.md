@@ -13,3 +13,19 @@ To enhance predictive accuracy and robustness, hybrid models such as Voting Clas
 
 The results show that hybrid ensemble models outperform individual classifiers in terms of classification accuracy and generalizability. The project provides a scalable and interpretable approach for classifying aircraft accident severity levels, offering potential support for safety analysis and decision-making in the aviation industry.
 
+## Deploy the Streamlit App
+
+This repository is ready to deploy on [Streamlit Community Cloud](https://share.streamlit.io/):
+
+1. Push the repository to GitHub, including the `models/` directory.
+2. In Streamlit Community Cloud, select **Create app** and choose this repository and branch.
+3. Set the main file path to `app/streamlit_app.py`.
+4. Deploy the app. Streamlit will install dependencies from `requirements.txt`.
+
+Run it locally with:
+
+```bash
+python -m pip install -r requirements.txt
+python -m streamlit run app/streamlit_app.py
+```
+
