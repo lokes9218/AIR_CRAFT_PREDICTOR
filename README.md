@@ -448,6 +448,50 @@ requirements.txt
 
 ---
 
+# 🎓 Learning Outcomes
 
+Through this project, the following concepts were explored:
+
+* Supervised Machine Learning
+* Multiclass/ordinal classification
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Model comparison
+* Ensemble learning
+* Voting Classifier
+* Stacking Classifier
+* Hyperparameter-based model optimization
+* Model evaluation
+* Machine Learning deployment
+* Streamlit application development
+
+---
+
+# 🔮 Future Enhancements
+
+The project can be further improved by:
+
+* Adding more recent aircraft accident data.
+* Performing advanced feature engineering.
+* Applying systematic hyperparameter optimization.
+* Adding explainable AI techniques such as SHAP.
+* Providing probability scores for each severity class.
+* Adding interactive visualizations to the web application.
+* Implementing model monitoring after deployment.
+* Exploring deep learning approaches for further improvement.
+* Integrating additional aviation safety datasets.
+
+---
+
+# 👨‍💻 Author
+
+**Lokeswaran S**
+
+Computer Science Engineering Student
+
+---
+
+## ⭐ Project
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
